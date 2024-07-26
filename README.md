@@ -1,2 +1,2 @@
 # PCB-Projects
-7/26/2024
+Updates every Sunday
